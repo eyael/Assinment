@@ -1,0 +1,7 @@
+C:\Users\Eyael\Desktop\Pyramid\Pyramid's stuffs\Examples\WeekTwo\WeekTwoExample\bin\Debug\WeekTwoExample.exe.config
+C:\Users\Eyael\Desktop\Pyramid\Pyramid's stuffs\Examples\WeekTwo\WeekTwoExample\bin\Debug\WeekTwoExample.exe
+C:\Users\Eyael\Desktop\Pyramid\Pyramid's stuffs\Examples\WeekTwo\WeekTwoExample\bin\Debug\WeekTwoExample.pdb
+C:\Users\Eyael\Desktop\Pyramid\Pyramid's stuffs\Examples\WeekTwo\WeekTwoExample\obj\Debug\WeekTwoExample.csprojAssemblyReference.cache
+C:\Users\Eyael\Desktop\Pyramid\Pyramid's stuffs\Examples\WeekTwo\WeekTwoExample\obj\Debug\WeekTwoExample.csproj.CoreCompileInputs.cache
+C:\Users\Eyael\Desktop\Pyramid\Pyramid's stuffs\Examples\WeekTwo\WeekTwoExample\obj\Debug\WeekTwoExample.exe
+C:\Users\Eyael\Desktop\Pyramid\Pyramid's stuffs\Examples\WeekTwo\WeekTwoExample\obj\Debug\WeekTwoExample.pdb

@@ -1,0 +1,1 @@
+﻿insert into catagory (id , name) values (3, 'Plane')

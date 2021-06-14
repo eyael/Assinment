@@ -1,0 +1,76 @@
+The three s
+
+Enable-Migrations -ContextTypeName BuyProduct.Models.BuyProductContext
+
+Add-Migration
+
+Update-database
+
+In order to add image in the mvc application the first step is that 
+
+1 add property name which point image in the database.
+
+
+ 
+
+What Is the purpose of creating product model and table.
+and what is the whole Idea of releted those tables through foreignkey?
+
+
+Once we created the register tables
+
+
+
+
+
+
+Jquary is nothing but javascript library.
+
+
+
+
+* The first step is that create a connection with the database in the web config.
+
+* create a register cs html and create emaila and password.
+
+* once we create a email and password 6 tables created authomatically.
+
+* Roles and create some roles and git it some name like admin...
+
+* which user what roles?
+
+* user roles copy to the id and paste it in the id.
+
+in the Layout add this
+
+  @if (HttpContext.Current.User.IsInRole("admin"))
+
+and make the controller [Autorize (Roles = "admins")]
+
+*************************************************************
+
+
+Buy Products
+
+ - anyone who has logged in can get to this page
+- category images will list
+- click on a category and all the products belonging to that category will list.
+- click on a product, a model popup will open up asking one to enter quantity.
+-upon clicking on submit button in the model popup, the selected products are entered into the database into a table called cart.
+
+ 
+
+table should contain
+-id, prodid, categid, qty
+
+ 
+
+
+A display button in the menu should show count of items in the cart table
+upon inserting a product into the cart table, the cart in the menu at the top should increase by one count
+
+
+
+1 The first step is creating a model and DBcontext class. 
+2 The second step is that connecting with the database in the web config. 
+3 create a controllers and fix views. 

@@ -1,0 +1,113 @@
+Basic structure of Web Form Application. 
+Properties 
+ -assablyinfo.cs
+ -publish profile
+references
+ -dotnet framework libraries 
+appsstartup
+ -bundle.cs
+ -routeconfig.cs
+content
+ --css -cascading style sheets
+
+
+I have to use C to delete 
+
+DESKTOP-9OV9TKG
+
+÷
+
+the steps to connect the databse
+1 create connection object
+
+create sqlcommandobject
+open connection object
+excute command
+close connection object
+create Datatable object
+File DataTable object with data 
+
+--sqlConnection con = new sqlConnection (ConfigurationManager.ConnectionString["DefaultConnection"].ToString);
+sqlCommand cmd = new sqlCommand ("insert into patients (id,firstname,lastname.....) values ("'"+pt.name+..."','")",con);
+
+con.open();
+cmd.ExcuteNonQuery();
+con.close(); 
+
+TrimEnd Method
+
+DropDown List!
+
+
+Crud Operation 
+
+We did insert.
+
+How did you open database in design section
+
+create a grid view 
+
+
+
+
+Model/database - Category
+int id Not Null Primary Key/ autoincrement
+CategName nvarchar(50) not null
+[Desc] nvarchar(MAX) Not Null
+ 
+
+Page 1
+Insert into Categories (CategName, Desc) values ()
+ 
+
+-create a page to insert records
+ 
+-------------------------------------
+ 
+Page 2
+ 
+List all categories - in a gridview
+ 
+--------------------------------
+ 
+Page 3
+-------------------------------
+delete category
+ 
+---------------------------
+ 
+page 4
+ 
+update record
+
+
+
+Create a new page
+	Add a gridview Control
+	Edit Columns and add item templates
+	Edit Templates to add controls for patient data
+	Add controls in item temlate and edit item templates
+	Bind these controls to columns in table
+	Bind grindview
+	Execute gridview events
+
+
+5/26/ part two 2:11...to be continued for Student registration.
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
